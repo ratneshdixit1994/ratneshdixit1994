@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1zMp0M7XzCflPic41CVoleUdtJOAT6THZ/view?usp=drive_link)
+[![MasterHead](https://ibb.co/VgBBMNC)
 <h1 align="center">Hi 👋, I'm Ratnesh Dixit</h1>
 <h3 align="center">Data Scientist || Stock Market Analyst || Paid Marketing Specialist || LinkedIn Ad Expert || SEO Specialist</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1FW1A3D9LBKr9Kel1EqhSKKO4noTAyk95/view?usp=drive_link">
